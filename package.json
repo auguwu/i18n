@@ -42,7 +42,7 @@
     "@augu/tsconfig": "1.1.1",
     "@types/node": "15.12.5",
     "@types/progress": "2.0.3",
-    "@types/react": "17.0.11",
+    "@types/react": "17.0.14",
     "@types/twemoji": "12.1.1",
     "@typescript-eslint/eslint-plugin": "4.28.0",
     "@typescript-eslint/parser": "4.28.0",
