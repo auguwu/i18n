@@ -35,7 +35,7 @@
     "tslog": "3.2.0",
     "twemoji": "13.1.0",
     "use-debounce": "7.0.0",
-    "zustand": "3.5.5"
+    "zustand": "3.5.7"
   },
   "devDependencies": {
     "@augu/eslint-config": "2.1.2",
